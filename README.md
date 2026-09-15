@@ -34,7 +34,7 @@ gibt keine Dauerlast und kein paralleles Crawling.
 ## User-Agent
 
 ```
-Foodplan/<version> (+https://github.com/oliGellner/foodplan)
+Foodplan/<version> (+https://github.com/oliver-gellner/foodplan)
 ```
 
 Die Software gibt sich **nicht** als Browser aus.
